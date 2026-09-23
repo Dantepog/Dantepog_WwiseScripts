@@ -1,4 +1,4 @@
-****Repository of my Wwise plugins****
+****My Repository Wwise plugins****
 <br>
 <br>
 <br>
