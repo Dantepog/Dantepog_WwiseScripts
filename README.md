@@ -1,3 +1,11 @@
 I made this repository to my Plugins for Wwise
 
-For the moment I create a Wwise plungin called Output_ChannelSelect to conect audio Buses to independient tracks for the Audio Device.
+
+**Wwise Plugins**
+
+Output_ChannelSelect
+- *Plugin to control audio bus routing to independent channels of an Device selected.*
+
+- Vesion soported at the moment:
+- 2025.1.11.9262
+
