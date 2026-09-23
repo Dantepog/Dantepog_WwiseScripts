@@ -4,7 +4,7 @@
 <br>
 **Output_ChannelSelect**<br>
 <img width="128" height="128" alt="Logo Plugin Wwise" src="https://github.com/user-attachments/assets/92b60aef-ab16-4f8b-8613-7e6128286b42" />
-- Description: *Plugin to control audio bus routing to independent channels of an Device selected. You can use this plugin to connect the outputs of each audio bus to separate channels in Reaper using the AK ASIO plugin as the device and ReaRoute.*
+- Description: *Plugin for controlling the routing of audio buses to a specific channel of a main audio bus or the configured device. You can use this plugin to connect the outputs of each audio bus to separate channels in Reaper using the AK ASIO plugin as the device and ReaRoute.*
 - Instalation: *Add the .ZIP to the Wwise Launcher in Plug-ins section for the Wwise version soported*
 - Platform Soported: Windows
 - Download: [Realase Wwise soported version](https://github.com/Dantepog/Dantepog_WwiseScripts/releases/tag/Plugins)
