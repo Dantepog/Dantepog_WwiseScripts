@@ -8,6 +8,6 @@
 - Instalation: *Add the .ZIP to the Wwise Launcher in Plug-ins section for the Wwise version soported*
 - Platform Soported: Windows
 - Download: [Compatible Wwise version](https://github.com/Dantepog/Dantepog_WwiseScripts/releases/tag/Plugins)
-- Tutorial to use this plugin with AK ASIO:
+- Tutorial to use this plugin with AK ASIO:<br>
       - Spanish: https://youtu.be/MihQgilVNz0
       - English:
