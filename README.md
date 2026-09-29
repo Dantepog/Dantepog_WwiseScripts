@@ -10,4 +10,4 @@
 - Download: [Compatible Wwise version](https://github.com/Dantepog/Dantepog_WwiseScripts/releases/tag/Plugins)
 - Tutorial to use this plugin with AK ASIO:<br>
       - Spanish: https://youtu.be/MihQgilVNz0 <br>
-      - English:
+      - English: https://youtu.be/1T3rrNdL9zI
